@@ -10,13 +10,13 @@ This project is a **Student Management System** designed to manage student infor
 
 The following are key files and directories in this project:
 
-- `.gitignore`**: Specifies files and directories to be excluded from version control, such as temporary or IDE-specific files.
-- `.idea/` Directory**: Contains project settings for the IDE (likely IntelliJ IDEA or PyCharm) that streamline development. Key configuration files include:
-- `compiler.xml`**: Defines the project's compiler settings.
-- `encodings.xml`**: Sets the character encoding preferences for the project files.
-- `jarRepositories.xml`**: Lists external dependencies and their sources.
+- `.gitignore`: Specifies files and directories to be excluded from version control, such as temporary or IDE-specific files.
+- `.idea/` Directory: Contains project settings for the IDE (likely IntelliJ IDEA or PyCharm) that streamline development. Key configuration files include:
+- `compiler.xml`: Defines the project's compiler settings.
+- `encodings.xml`: Sets the character encoding preferences for the project files.
+- `jarRepositories.xml`: Lists external dependencies and their sources.
 - `misc.xml`, `modules.xml`, `studentsystem.iml`**: Various IDE configurations for module management, project structure, and miscellaneous settings.
-- `uiDesigner.xml`**: Stores information about the user interface design if GUI components are involved.
+- `uiDesigner.xml` Stores information about the user interface design if GUI components are involved.
 - `studentsystem/` Directory**: The main directory for the application’s source code and resources. Here, you will find the codebase and logic for handling student information.
 
 ## Features
